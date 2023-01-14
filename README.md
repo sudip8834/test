@@ -10,3 +10,5 @@ And this also is a test for learning how to use github
 continuing with the turtorial on youtube
 
 freecodecamp video was bad
+
+hmmmm not bad
