@@ -8,3 +8,5 @@ And this also is a test for learning how to use github
 ## subheader
 
 continuing with the turtorial on youtube
+
+freecodecamp video was bad
